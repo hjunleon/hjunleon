@@ -10,7 +10,7 @@
 </em></p>
 <br />
 
-Hi, I'm Jun Leong, a passionate software engineer from Singapore. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. My interests are pretty broad, so you'll won't be bored with what you see! 😄
+Hi, I'm Jun Leong, a passionate software engineer from Singapore. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. My interests are pretty broad, so you won't be bored with what you see! 😄
 
 I am also an open-source enthusiast as I love how the culture of collaboration and knowledge sharing.
 
